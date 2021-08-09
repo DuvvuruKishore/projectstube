@@ -1,0 +1,20 @@
+.birthdayContent{
+    display: flex;
+}
+.birthday{
+    width: 300px;
+}
+.name{
+    padding-left: 30px;
+    padding-bottom: 0%;
+}
+.wishes{
+padding-bottom: 20px;
+text-align: center;
+}
+
+.avatar{
+    width: 30px;
+    height: 30px;
+    padding-top: 10px;
+}
